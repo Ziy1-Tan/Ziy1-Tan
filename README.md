@@ -4,7 +4,7 @@
 >>> N0tell.name
 {'N0tell', 'Ziy1-Tan'}
 >>> N0tell.interests
-['anime', 'fitness','Metro Exodus/The Witcher 3', 'open source']
+['K-ON!', 'fitness','Metro Exodus/The Witcher 3']
 >>> N0tell.learning
 ['Storage Systems', 'Cloud Native Observability', 'Distributed Systems']
 >>> N0tell.email
