@@ -1,11 +1,11 @@
 ```python
 >>> import VitaC100
 "Hi, I'm VitaC100! Glad to meet you!"
->>> N0tell.name
+>>> VitaC100.name
 ('VitaC100', 'Ziy1-Tan')
->>> N0tell.interests
+>>> VitaC100.interests
 ['K-ON!', 'fitness', 'Metro Exodus/The Witcher 3']
->>> N0tell.learning
+>>> VitaC100.learning
 ['Storage Systems', 'Cloud Native Observability', 'Distributed Systems']
->>> N0tell.email
+>>> VitaC100.email
 "base64 -d <<< YWpiNDU5Njg0NDYwQGdtYWlsLmNvbQo="
