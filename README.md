@@ -6,6 +6,10 @@
 >>> vitac.interests
 ['K-ON!', 'fitness', 'Metro Exodus/The Witcher 3']
 >>> vitac.learning
-['Storage Systems', 'Cloud Native Observability', 'Distributed Systems']
+['Storage Systems', 'Predicate Pushdown', 'Distributed Systems']
 >>> vitac.email
-"base64 -d <<< YWpiNDU5Njg0NDYwQGdtYWlsLmNvbQo="
+"base64 -d <<< dGFueml5aTA5MjVAZ21haWwuY29t"
+```
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
