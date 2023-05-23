@@ -10,7 +10,7 @@
 >>> vitac.email
 "base64 -d <<< dGFueml5aTA5MjVAZ21haWwuY29t"
 ```
-
+📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 
 ```text
