@@ -1,8 +1,8 @@
 ```python
->>> import vitac
-"Hi, I'm vitac! Glad to meet you!"
+>>> import s1mple
+"Hi, I'm s1mple! Glad to meet you!"
 >>> vitac.name
-('vitac', 'Ziy1-Tan')
+('s1mple', 'Ziy1-Tan')
 >>> vitac.interests
 ['K-ON!', 'fitness', 'Metro Exodus/The Witcher 3']
 >>> vitac.learning
