@@ -1,13 +1,13 @@
 ```python
 >>> import s1mple
 "Hi, I'm s1mple! Glad to meet you!"
->>> vitac.name
+>>> s1mple.name
 ('s1mple', 'Ziy1-Tan')
->>> vitac.interests
+>>> s1mple.interests
 ['K-ON!', 'fitness', 'Metro Exodus/The Witcher 3']
->>> vitac.learning
+>>> s1mple.learning
 ['Storage Systems', 'Predicate Pushdown', 'Distributed Systems']
->>> vitac.email
+>>> s1mple.email
 "base64 -d <<< dGFueml5aTA5MjVAZ21haWwuY29t"
 ```
 📊 **Weekly development breakdown**
