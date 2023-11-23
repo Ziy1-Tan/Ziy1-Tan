@@ -6,7 +6,7 @@
 >>> s1mple.interests
 ['K-ON!', 'fitness', 'Metro Exodus/The Witcher 3']
 >>> s1mple.learning
-['Storage Systems', 'Predicate Pushdown', 'Distributed Systems']
+['Storage Systems', 'Vscode as Vim', 'Distributed Systems']
 >>> s1mple.email
 "base64 -d <<< dGFueml5aTA5MjVAZ21haWwuY29t"
 ```
