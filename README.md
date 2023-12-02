@@ -7,8 +7,8 @@
 ['K-ON!', 'fitness', 'Metro Exodus/The Witcher 3']
 >>> s1mple.learning
 ['Storage Systems', 'Vscode as Vim', 'Distributed Systems']
->>> s1mple.email
-"base64 -d <<< dGFueml5aTA5MjVAZ21haWwuY29t"
+>>> s1mple.dev_devices
+["WSL2 on Windows", "Macbook Air m1"]
 ```
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
