@@ -4,9 +4,9 @@
 >>> s1mple.name
 ('s1mple', 'Ziy1-Tan')
 >>> s1mple.interests
-['K-ON!', 'fitness', 'Metro Exodus/The Witcher 3']
+['Swim', 'Fitness', 'Forza Horizon 5 / Metro Exodus / The Witcher 3']
 >>> s1mple.learning
-['Storage Systems', 'Vscode as Vim', 'Distributed Systems']
+['Computer Architecture', 'Parallel Computing', 'Distributed System']
 >>> s1mple.dev_devices
 ["WSL2 on Windows", "Macbook Air m1"]
 ```
