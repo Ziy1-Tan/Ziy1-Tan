@@ -1,14 +1,14 @@
 ```python
->>> import s1mple
-"Hi, I'm s1mple! Glad to meet you!"
->>> s1mple.name
-('s1mple', 'Ziy1-Tan')
->>> s1mple.interests
+>>> import swiftzy
+"Hi, I'm swiftzy! Glad to meet you!"
+>>> swiftzy.name
+('swiftzy', 'Ziy1-Tan')
+>>> swiftzy.interests
 ['Swim', 'Fitness', 'Forza Horizon 5 / Metro Exodus / The Witcher 3']
->>> s1mple.learning
-['Computer Architecture', 'Parallel Computing', 'Distributed System']
->>> s1mple.dev_devices
-["WSL2 on Windows", "Macbook Air m1"]
+>>> swiftzy.learning
+['Rust in Systems Programming', 'MLSys']
+>>> swiftzy.dev_devices
+["Linux WSL2", "Macbook Air M1"]
 ```
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
