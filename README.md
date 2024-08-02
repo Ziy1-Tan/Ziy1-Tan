@@ -6,7 +6,7 @@
 >>> swiftzy.interests
 ['Swim', 'Fitness', 'Forza Horizon 5 / Metro Exodus / The Witcher 3']
 >>> swiftzy.learning
-['Rust Systems Programmin', 'virtio-fs', 'SPDK']
+['Rust Systems Programmin', 'VirtioFS', 'SPDK']
 >>> swiftzy.dev_devices
 ["Linux WSL2", "Macbook Air M1"]
 ```
