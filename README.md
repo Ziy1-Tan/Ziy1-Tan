@@ -7,9 +7,8 @@
 ['Swim', 'Fitness', 'Forza Horizon 5 / Metro Exodus / The Witcher 3']
 >>> swiftzy.learning
 ['Rust system programming', 'Virtio-FS', 'spdk']
->>> swiftzy.dev_devices
-["Linux WSL2", "Macbook Air M1"]
 ```
+
 ## Working on
 
 ![Windows11](https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows&logoColor=ffffff)
