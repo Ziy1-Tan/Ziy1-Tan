@@ -26,3 +26,14 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
+
+## Contribution
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Ziy1-Tan/Ziy1-Tan/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Ziy1-Tan/Ziy1-Tan/output/github-snake.svg" />
+  <img alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/Ziy1-Tan/Ziy1-Tan/output/github-snake.svg" />
+</picture>
