@@ -18,17 +18,6 @@ Avatar is Anya, from SPY x FAMILY.
 ![Ubuntu](https://img.shields.io/badge/Ubuntu%20(WSL)-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)
 ![MacOS](https://img.shields.io/badge/MacOS-000000?style=flat-square&logo=apple&logoColor=white)
 
-📊 **Weekly development breakdown**
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
-## Contribution
-
 <picture>
   <source media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/Ziy1-Tan/Ziy1-Tan/output/github-snake-dark.svg" />
