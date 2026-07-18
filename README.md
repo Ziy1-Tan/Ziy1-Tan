@@ -7,7 +7,7 @@ I focus on Cloud Infra.
 
 - You can ask me about storage, high-performance networking.
 - I worked in the Kunpeng virtualization team @Huawei, using SPDK, FUSE, Virtio-FS, and NVMe-oF to pushdown the storage I/O onto DPUs and connect it to remote storage clusters. Like [NVIDIA® BlueField® DOCA SNAP Virtio-fs](https://catalog.ngc.nvidia.com/orgs/nvidia/teams/doca/containers/doca_vfs?version=1.5.0-doca3.2.0) and [IBM/DPFS](https://github.com/IBM/DPFS).
-- Currently at @Tencent, building a VM service akin to OpenStack Nova — compute orchestration, scheduling, and the lifecycle of virtual machines at scale.
+- Currently at @Tencent, building a VM service like [OpenStack/Nova](https://github.com/openstack/nova) — Compute orchestration, scheduling, and the lifecycle of virtual machines at scale.
 
 I've also contributed improvements to Ray Serve and OpenClaw.
 
