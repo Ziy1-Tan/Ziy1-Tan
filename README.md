@@ -8,7 +8,7 @@ Before that I was on the Kunpeng virtualization team at @Huawei, working on stor
 
 Ask me about storage, high-performance networking, or agent infra.
 
-The avatar is Anya, from SPY x FAMILY.
+The avatar is Anya, from SPY×FAMILY.
 
 ## Working on
 
