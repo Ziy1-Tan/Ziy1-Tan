@@ -1,17 +1,14 @@
 > What I cannot create, I do not understand.
 
+Hey, I'm ziyitan. I work on cloud infra.
 
-Hey, I'm ziyitan, an engineer driven by curiosity.
+Right now at @Tencent I'm building a compute service like [OpenStack/Nova](https://github.com/openstack/nova): orchestration, scheduling, and the VM lifecycle at scale.
 
-I focus on Cloud Infra.
+Before that I was on the Kunpeng virtualization team at @Huawei, working on storage offload to DPUs: NFS out to remote storage clusters, and virtiofsd presenting the filesystem to the guest, roughly where [NVIDIA® BlueField® DOCA SNAP Virtio-fs](https://catalog.ngc.nvidia.com/orgs/nvidia/teams/doca/containers/doca_vfs?version=1.5.0-doca3.2.0) and [IBM/DPFS](https://github.com/IBM/DPFS) sit.
 
-- You can ask me about storage, high-performance networking.
-- I worked in the Kunpeng virtualization team @Huawei, using SPDK, FUSE, Virtio-FS, and NVMe-oF to pushdown the storage I/O onto DPUs and connect it to remote storage clusters. Like [NVIDIA® BlueField® DOCA SNAP Virtio-fs](https://catalog.ngc.nvidia.com/orgs/nvidia/teams/doca/containers/doca_vfs?version=1.5.0-doca3.2.0) and [IBM/DPFS](https://github.com/IBM/DPFS).
-- Currently at @Tencent, building a VM service like [OpenStack/Nova](https://github.com/openstack/nova) — Compute orchestration, scheduling, and the lifecycle of virtual machines at scale.
+Ask me about storage, high-performance networking, or agent infra.
 
-I've also contributed improvements to Ray Serve and OpenClaw.
-
-Avatar is Anya, from SPY x FAMILY.
+The avatar is Anya, from SPY x FAMILY.
 
 ## Working on
 
